@@ -5,7 +5,7 @@
 # AtomixServis
 
 **Oto servisler için iş emri, araç kabul, QR etiket ve stok takibi.**
-Web paneli + iOS / Android mobil uygulama. Elazığ'da, atomiXbilişim tarafından geliştiriliyor.
+Web paneli + iOS / Android mobil uygulama. atomiXbilişim tarafından geliştiriliyor.
 
 [![App Store](https://img.shields.io/badge/App_Store-Yayında-000000?logo=apple&logoColor=white)](https://apps.apple.com/tr/app/atomixservis/id6831888179)
 ![Google Play](https://img.shields.io/badge/Google_Play-Kapalı_test-34A853?logo=googleplay&logoColor=white)
